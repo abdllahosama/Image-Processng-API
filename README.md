@@ -28,3 +28,26 @@ dawnload the package to your pc  and open command line then install all packages
 npm install
 ```
 
+congratsulations ☺️ now you installed the project
+
+<h2>important commands in project </h2>
+
+to start devoloping run
+```
+npm run dev
+```
+
+to compile project run 
+```
+npm run build
+```
+
+to use prettier run
+```
+npm run prettier
+```
+
+to use eslint run
+```
+npm run eslint
+```
