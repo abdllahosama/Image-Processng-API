@@ -12,5 +12,6 @@ the package starts to get requiest params from link then package vaildate data t
     <li><a href="https://www.npmjs.com/package/fs-extra">fs-extra</a> file system to manage files</li>
     <li><a href="https://jasmine.github.io/">jasmine</a> for unit testing</li>
     <li><a href="https://sharp.pixelplumbing.com/">sharp</a> for image processing</li>
-    <li><a href="https://www.npmjs.com/package/supertest"</a>supertest for testing end points</li>
+    <li><a href="https://www.npmjs.com/package/supertest"></a>supertest for testing end points</li>
   </ol>
+ <h2>how to use this packge</h2>
