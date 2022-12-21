@@ -5,13 +5,12 @@ the package starts to get requiest params from link then package vaildate data t
 </p>
 <h2>this package debends on <h2>
   <ol>
-    <li>typescript </li>
-    <li>express</li>
-    <li>prettier </li>
-    <li>eslint</li>
-    <li>fs-extra</li>
-    <li>jasmine</li>
-    <li>jasmine</li>
-    <li>sharp</li>
-    <li>supertest</li>
+    <li><a href="typescriptlang.org"> typescript</a> for write strong typed vars </li>
+    <li><a href="https://expressjs.com/">express</a> for creating serve</li>
+    <li><a href="https://prettier.io/">prettier </a> for make our code readable</li>
+    <li><a href="https://eslint.org/">eslint</a> for check our code</li>
+    <li><a href="https://www.npmjs.com/package/fs-extra">fs-extra</a> file system to manage files</li>
+    <li><a href="https://jasmine.github.io/">jasmine</a> for unit testing</li>
+    <li><a href="https://sharp.pixelplumbing.com/">sharp</a> for image processing</li>
+    <li><a href="https://www.npmjs.com/package/supertest">supertest for testing end points</li>
   </ol>
