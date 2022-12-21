@@ -3,7 +3,7 @@
 Image processing API is a clean code and extendable  node js project that is made to resize images to be fet for any size and easy to use.
 the package starts to get requiest params from link then package vaildate data then start to check if request file is exist it return file from cache else it generate file then save it en cache to get it next time
 </p>
-<h2>this package debends on <h2>
+<h2>this package debends on </h2>
   <ol>
     <li><a href="typescriptlang.org"> typescript</a> for write strong typed vars </li>
     <li><a href="https://expressjs.com/">express</a> for creating serve</li>
@@ -12,5 +12,5 @@ the package starts to get requiest params from link then package vaildate data t
     <li><a href="https://www.npmjs.com/package/fs-extra">fs-extra</a> file system to manage files</li>
     <li><a href="https://jasmine.github.io/">jasmine</a> for unit testing</li>
     <li><a href="https://sharp.pixelplumbing.com/">sharp</a> for image processing</li>
-    <li><a href="https://www.npmjs.com/package/supertest">supertest for testing end points</li>
+    <li><a href="https://www.npmjs.com/package/supertest"</a>supertest for testing end points</li>
   </ol>
