@@ -20,7 +20,11 @@ first of all you have to install node in your devise, to check your node write
 
 ```
 npm -v
-
 ```
 
-dawnload the package to your pc  and open command line.
+dawnload the package to your pc  and open command line then install all packages using
+
+```
+npm install
+```
+
