@@ -30,6 +30,16 @@ npm install
 
 congratsulations ☺️ now you installed the project
 
+you can now open this url to resize images http://127.0.0.1:5000/api/image?image=lake&width=400&height=400
+
+you can select height or width that begger than 0
+
+and select image from default images 
+```
+['greanland', 'lake', 'palac', 'railway', 'tree']
+```
+or put your png image in ./images/main dir and use its name
+
 <h2>important commands in project </h2>
 
 to start devoloping run
@@ -50,4 +60,9 @@ npm run prettier
 to use eslint run
 ```
 npm run eslint
+```
+
+to run unit tisting run
+```
+npm run test
 ```
