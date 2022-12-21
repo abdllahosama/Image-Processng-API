@@ -14,4 +14,13 @@ the package starts to get requiest params from link then package vaildate data t
     <li><a href="https://sharp.pixelplumbing.com/">sharp</a> for image processing</li>
     <li><a href="https://www.npmjs.com/package/supertest"></a>supertest for testing end points</li>
   </ol>
- <h2>how to use this packge</h2>
+<h2>how to use this package</h2>
+
+first of all you have to install node in your devise, to check your node write
+
+```
+npm -v
+
+```
+
+dawnload the package to your pc  and open command line.
