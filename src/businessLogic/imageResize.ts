@@ -3,9 +3,9 @@ import sharp from 'sharp'
 
 class imageResize {
     // main images dir
-    private mainDir = './images/main'
+    private mainDir: string = './images/main'
     // output images dir
-    public outputDir = './images/output'
+    public outputDir: string = './images/output'
 
     // get image width
     public imgWidth: number
