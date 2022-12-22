@@ -13,7 +13,7 @@ const routes = express.Router()
  * 2- height: height of image and it must be number bigger than 0
  * 3- image: image name and it must be sting and must be in ./image/main dir
  */
-routes.get('/', imageRequestValidator, async (req, res) => {
+routes.get('/', imageRequestValidator, async (req, res): Promise<void> => {
     // get data from requiest query
     const query = req.query
 
