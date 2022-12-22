@@ -13,7 +13,7 @@ app.use('/api', routes)
 app.use(errorHandler)
 
 //handel 404 request page
-app.get('*', function (req, res) {
+app.get('*', function (req, res): void {
     res.status(404).send(
         'you may came here by mistake please use this link :5000/api/image?image={image-name}&width={image-width}&height={image-height}'
     )
